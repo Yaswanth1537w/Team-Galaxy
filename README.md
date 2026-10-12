@@ -1,0 +1,3 @@
+# CampusGate
+
+CampusGate project repository.
